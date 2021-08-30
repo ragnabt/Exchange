@@ -1,0 +1,132 @@
+{
+  "2021-08-25-20:09:44": {
+    "date_time": "2021-08-25-20:09:44",
+    "base_currency": "EUR",
+    "input_currency": "EUR",
+    "output_currency": "HUF",
+    "input_currency_value": 1.0,
+    "input_currency_exchange_rate": 1,
+    "output_currency_exchange_rate": 350.315852,
+    "result_value": 350.315852
+  },
+  "2021-08-25-20:10:51": {
+    "date_time": "2021-08-25-20:10:51",
+    "base_currency": "EUR",
+    "input_currency": "USD",
+    "output_currency": "CAD",
+    "input_currency_value": 200.0,
+    "input_currency_exchange_rate": 1.16955,
+    "output_currency_exchange_rate": 1.501708,
+    "result_value": 256.80099183446623
+  },
+  "2021-08-25-20:12:22": {
+    "date_time": "2021-08-25-20:12:22",
+    "base_currency": "EUR",
+    "input_currency": "TOP",
+    "output_currency": "TRY",
+    "input_currency_value": 300.0,
+    "input_currency_exchange_rate": 2.67178,
+    "output_currency_exchange_rate": 9.930938,
+    "result_value": 1115.0923354467807
+  },
+  "2021-08-25-20:57:41": {
+    "date_time": "2021-08-25-20:57:41",
+    "base_currency": "EUR",
+    "input_currency": "HUF",
+    "output_currency": "EUR",
+    "input_currency_value": 3214.0,
+    "input_currency_exchange_rate": 350.315852,
+    "output_currency_exchange_rate": 1,
+    "result_value": 9.174577689393285
+  },
+  "2021-08-25-21:03:24": {
+    "date_time": "2021-08-25-21:03:24",
+    "base_currency": "EUR",
+    "input_currency": "JOD",
+    "output_currency": "HUF",
+    "input_currency_value": 200.0,
+    "input_currency_exchange_rate": 0.829257,
+    "output_currency_exchange_rate": 350.315852,
+    "result_value": 84489.0913190965
+  },
+  "2021-08-23-21:12:01": {
+    "date_time": "2021-08-23-21:12:01",
+    "base_currency": "EUR",
+    "input_currency": "EUR",
+    "output_currency": "HUF",
+    "input_currency_value": 350.0,
+    "input_currency_exchange_rate": 1,
+    "output_currency_exchange_rate": 350.315852,
+    "result_value": 122610.5482
+  },
+  "2021-08-24-21:38:28": {
+    "date_time": "2021-08-24-21:38:28",
+    "base_currency": "EUR",
+    "input_currency": "ZWL",
+    "output_currency": "KES",
+    "input_currency_value": 123.0,
+    "input_currency_exchange_rate": 376.594717,
+    "output_currency_exchange_rate": 128.124684,
+    "result_value": 41.8469389521468
+  },
+  "2021-08-25-21:40:35": {
+    "date_time": "2021-08-25-21:40:35",
+    "base_currency": "EUR",
+    "input_currency": "EUR",
+    "output_currency": "HUF",
+    "input_currency_value": 1234567.0,
+    "input_currency_exchange_rate": 1,
+    "output_currency_exchange_rate": 350.315852,
+    "result_value": 432488390.456084
+  },
+  "2021-08-25-21:50:46": {
+    "date_time": "2021-08-25-21:50:46",
+    "base_currency": "EUR",
+    "input_currency": "EUR",
+    "output_currency": "HUF",
+    "input_currency_value": 1.0,
+    "input_currency_exchange_rate": 1,
+    "output_currency_exchange_rate": 350.315852,
+    "result_value": 350.315852
+  },
+  "2021-08-25-23:14:48": {
+    "date_time": "2021-08-25-23:14:48",
+    "base_currency": "EUR",
+    "input_currency": "AMD",
+    "output_currency": "JPY",
+    "input_currency_value": 234.0,
+    "input_currency_exchange_rate": 573.208764,
+    "output_currency_exchange_rate": 128.461111,
+    "result_value": 52.441452158257654
+  },
+  "2021-08-25-23:29:34": {
+    "date_time": "2021-08-25-23:29:34",
+    "base_currency": "EUR",
+    "input_currency": "EUR",
+    "output_currency": "HUF",
+    "input_currency_value": 1122.0,
+    "input_currency_exchange_rate": 1,
+    "output_currency_exchange_rate": 348.4822,
+    "result_value": 390997.02839999995
+  },
+  "2021-08-25-23:56:13": {
+    "date_time": "2021-08-25-23:56:13",
+    "base_currency": "EUR",
+    "input_currency": "GBP",
+    "output_currency": "TRY",
+    "input_currency_value": 2396.0,
+    "input_currency_exchange_rate": 0.855433,
+    "output_currency_exchange_rate": 9.864418,
+    "result_value": 27629.452602366287
+  },
+  "2021-08-26-10:57:13": {
+    "date_time": "2021-08-26-10:57:13",
+    "base_currency": "EUR",
+    "input_currency": "MDL",
+    "output_currency": "EUR",
+    "input_currency_value": 500.0,
+    "input_currency_exchange_rate": 20.784652,
+    "output_currency_exchange_rate": 1,
+    "result_value": 24.056212247383307
+  }
+}
